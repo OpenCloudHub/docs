@@ -1,0 +1,24 @@
+// Brand colors from style guide
+$deep-slate: #34374c;
+$charcoal: #1f212e;
+$slate-blue: #494d6a;
+$cloud-teal: #00d4aa;
+$tech-blue: #0ea5e9;
+$alert-orange: #f97316;
+$error-red: #ef4444;
+
+// Alternative approach - try these if above doesn't work
+$nav-child-link-color: #ffffff;
+$nav-child-link-color-hover: $cloud-teal;
+
+// Links and interactive elements
+$link-color: $cloud-teal;
+$btn-primary-color: $cloud-teal;
+
+// Search
+$search-active-color: $cloud-teal;
+$search-result-preview-color: $slate-blue;
+
+// Clean borders
+$border-color: #dcdcdc;
+$code-background-color: #f6f6f6;

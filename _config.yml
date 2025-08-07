@@ -1,8 +1,25 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OpenCloudHub
+description: MLOps platform on Kubernetes - Master's thesis project demonstrating enterprise-grade machine learning lifecycle management
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
+url: "https://docs.opencloudhub.org"
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub": "https://github.com/OpenCloudHub"
+aux_links_new_tab: true
+logo: "/assets/images/primary-logo-light.png"
+favicon_ico: "/assets/images/favicon.ico"
+color_scheme: opencloudhub
+nav_sort: case_insensitive
+
+callouts:
+  warning:
+    title: Warning
+    color: orange
+  highlight:
+    title: Highlight
+    color: teal
+  note:
+    title: Note
+    color: blue
+  important:
+    title: Important
+    color: red
